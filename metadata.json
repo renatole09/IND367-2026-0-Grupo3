@@ -1,0 +1,8 @@
+{
+  "name": "ArtesaTrack",
+  "description": "Aplicación de gestión para maestros artesanos independientes, permitiendo el seguimiento de proyectos, presupuestos y comunicación con clientes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
